@@ -701,4 +701,8 @@ Parejas DE ALTA disponibilidad: 18 en un nodo ^1^</block>
   <block id="7a45e6298bb69116e2c6db653fb88884" category="sidebar">Toda la documentación de BlueXP</block>
   <block id="117bdbda976fe8b3212bc3b6327a0a1b" category="sidebar">Cloud Volumes ONTAP</block>
   <block id="dea335c9c6f638eb584011e253ad6ca1" category="sidebar">Cloud de ONTAP</block>
+  <block id="8b2d765c50b94c53d6721cec3481a157" category="section-title">9.13.1 P1 (3 de octubre de 2023)</block>
+  <block id="2de7023f95c4ec26ccc423bd34c3771c" category="paragraph">El parche 9.13.1 P1 ya está disponible para Cloud Volumes ONTAP para todos los proveedores de nube si tiene un conector que ejecuta la versión 3.9.26 o posterior. BlueXP le solicitará que actualice sus sistemas existentes a esta versión de revisión.</block>
+  <block id="a9380d77cd3c45a5f15f09b231323443" category="inline-link-macro">Consulte la lista de errores corregidos en el parche P1</block>
+  <block id="a381b8f37c04a51537dbe6d9053cfbbb" category="paragraph"><block ref="ccefc7f2c29a122e93c4f12a5703f3ec" category="inline-link-macro-rx"></block> (Se requiere inicio de sesión en el sitio de soporte de NetApp).</block>
 </blocks>
