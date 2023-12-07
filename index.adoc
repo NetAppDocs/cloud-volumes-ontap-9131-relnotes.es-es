@@ -1,5 +1,5 @@
 ---
-layout: astra 
+layout: landing-page 
 sidebar: sidebar 
 permalink: index.html 
 summary: En estas notas de la versión, se describen las nuevas funciones, las limitaciones y los problemas conocidos de Cloud Volumes ONTAP 9.13.1. 
