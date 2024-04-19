@@ -739,4 +739,8 @@ Parejas DE ALTA disponibilidad: 18 en un nodo ^1^</block>
   <block id="d93fc7eec639f50d99d651224af0415e" category="paragraph">El parche 9.13.1 P7 ya está disponible para Cloud Volumes ONTAP para todos los proveedores de cloud. BlueXP le solicitará que actualice sus sistemas existentes a esta versión de revisión.</block>
   <block id="7fa6a95154192207488dcc8bf13f9366" category="inline-link-macro">Consulte la lista de errores corregidos en el parche P7</block>
   <block id="d866ede0a0cfb0467de01472cce74e96" category="paragraph"><block ref="99febf770c92bc8fae26a27ba56cb73d" category="inline-link-macro-rx"></block> (Se requiere inicio de sesión en el sitio de soporte de NetApp).</block>
+  <block id="16778b7c39dde9a48cafddfba0a88d85" category="section-title">9.13.1 P8 (18 de abril de 2024)</block>
+  <block id="1d12f3ce32e0eabaf455943668da2cbd" category="paragraph">El parche 9.13.1 P8 ya está disponible para Cloud Volumes ONTAP para todos los proveedores de cloud. BlueXP le solicitará que actualice sus sistemas existentes a esta versión de revisión.</block>
+  <block id="a5757ef07045a814bda504c5b48177c6" category="inline-link-macro">Consulte la lista de errores corregidos en el parche P8</block>
+  <block id="8bba936a84b0f86bfee2925732b92090" category="paragraph"><block ref="fe23d2cce4a8effabca3a3668631b419" category="inline-link-macro-rx"></block> (Se requiere inicio de sesión en el sitio de soporte de NetApp).</block>
 </blocks>
