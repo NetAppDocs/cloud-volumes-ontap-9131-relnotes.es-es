@@ -1,7 +1,12 @@
 ---
 indexpage:
+  title: Notas de la versión de Cloud Volumes ONTAP 9.13.1
+  summary: En estas notas de la versión, se describen las nuevas funciones, las limitaciones
+    y los problemas conocidos de Cloud Volumes ONTAP 9,13.
+  keywords: cloud volumes ontap, licensing, security, release notes, storage, data
+    protection, configuration, upgrade, encryption, cvo, 9131
   lead: En estas notas de la versión, se describen las nuevas funciones, las limitaciones
-    y los problemas conocidos de Cloud Volumes ONTAP 9.13.1.
+    y los problemas conocidos de Cloud Volumes ONTAP 9,13.
   tiles:
   - title: Manos a la obra
     links:

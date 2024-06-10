@@ -503,7 +503,6 @@ Parejas DE ALTA disponibilidad: 18 en un nodo ^1^</block>
   <block id="d5b5d1eda2a2c0d060f59094000e6aea" category="paragraph">Dado que requiere una dirección IP privada, limitará la cantidad de equipos virtuales de almacenamiento adicionales que puede crear. La única excepción es un par de alta disponibilidad en varios AZs. En ese caso, la dirección IP de la LIF de gestión es una dirección IP _flotante_, por lo que no cuenta con el límite de IP _privado_.</block>
   <block id="4f9154c68af93dc525373bf1a9c2edce" category="section-title">Límites de archivos y volúmenes</block>
   <block id="8e79313a5b6fb51ae3e76e64449c9f1d" category="cell">Profundidad de clonación jerárquica hacia 1</block>
-  <block id="b07f6144410a8635e8ae505b186322a5" category="summary">En estas notas de la versión, se describen las nuevas funciones, las limitaciones y los problemas conocidos de Cloud Volumes ONTAP 9.13.1.</block>
   <block id="a69b1618b78e74242413945e92315e51" category="doc">Notas de la versión de Cloud Volumes ONTAP 9.13.1</block>
   <block id="fa082ab1a05e05550971e6e5f583dcfe" category="summary">Se admiten varias configuraciones de Cloud Volumes ONTAP en AWS.</block>
   <block id="8bb0da4c260f565e0c8162ea9c2b7caa" category="doc">Configuraciones compatibles en AWS</block>
@@ -747,4 +746,5 @@ Parejas DE ALTA disponibilidad: 18 en un nodo ^1^</block>
   <block id="53ce0a94e090cdbb2c32cbf8aac660ce" category="paragraph">El parche 9.13.1 P9 ya está disponible para Cloud Volumes ONTAP para todos los proveedores de cloud. BlueXP le solicitará que actualice sus sistemas existentes a esta versión de revisión.</block>
   <block id="4b99ccc66c896711e2667fd1c7cc5a70" category="inline-link-macro">Consulte la lista de errores corregidos en el parche P9</block>
   <block id="5e4596dae3990ec330418a9546e92a77" category="paragraph"><block ref="1e9f3632a6b42f23498b02cf3b6234ab" category="inline-link-macro-rx"></block> (Se requiere inicio de sesión en el sitio de soporte de NetApp).</block>
+  <block id="66929aea59eb5153444c9aa0a8e8722f" category="sidebar">En estas notas de la versión, se describen las nuevas funciones, las limitaciones y los problemas conocidos de Cloud Volumes ONTAP 9,13.</block>
 </blocks>
