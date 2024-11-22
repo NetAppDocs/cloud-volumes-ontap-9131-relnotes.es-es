@@ -104,6 +104,17 @@ El lanzamiento de disponibilidad general de Cloud Volumes ONTAP 9.13.1 ya está 
 
 El candidato al lanzamiento 1 de Cloud Volumes ONTAP 9.13.1 ya está disponible en AWS, Azure y Google Cloud.
 
+Algunas mejoras en el rendimiento de FabricPool pueden afectar a los datos organizados en niveles en Cloud Volumes ONTAP.
+
+.Mejora de la velocidad de lectura secuencial y el nivel
+Gracias a la mejora del rendimiento de lectura y la organización en niveles en FabricPool, es posible que haya una tasa y `PUT` operaciones más altas `GET` en almacenes de objetos on-premises. Asegúrese de que haya un margen de rendimiento suficiente para un rendimiento fluido.
+
+.Funcionalidad de lectura anticipada agresiva
+ `Aggressive Readahead`La función de FabricPool puede aumentar las operaciones de lectura a nivel de archivos, lo que, a su vez, puede aumentar los costes de lectura y el uso de memoria en el cloud público.
+
+.Funcionalidad de escritura en cloud
+Esta funcionalidad permite que los clientes NFS escriban directamente en el nivel de capacidad de FabricPool. Esta función tiene ciertas limitaciones y debe utilizarse con precaución. Por ejemplo, si se añade tráfico NFS de escritura en el cloud al tráfico ONTAP regular, como SnapMirror, se puede afectar el objetivo de punto de recuperación general y el objetivo de tiempo de recuperación en SnapMirror.
+
 
 
 == Notas de actualización
